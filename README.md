@@ -4,6 +4,8 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 I am a Software Engineer / Web Developer
 ---------------------------------
 
+<img src="https://pbs.twimg.com/profile_banners/1524709328262995968/1660485792/1500x500" alt="twitter banner">
+
 I'm from Boston, MA and have been programming and practicing web development for two years. I started my journey with Python 3 and moved into specializing in web development once the fundamentals started to click. Always looking for people to interact with on any platform and gain new experience.
 
 * 🌍  I'm based in Boston, Massachusetts, USA
