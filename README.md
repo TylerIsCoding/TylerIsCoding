@@ -2,7 +2,6 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 =====================================================================================================================================
 
 I am a Software Engineer / Web Developer
----------------------------------
 
 <img src="https://pbs.twimg.com/profile_banners/1524709328262995968/1660485792/1500x500" alt="twitter banner">
 
