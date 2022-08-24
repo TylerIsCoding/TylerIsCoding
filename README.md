@@ -1,11 +1,11 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tyler
 =====================================================================================================================================
 
-I am a Software Engineer / Web Developer
+I am a Freelance Software Engineer / Web Developer
 
 <img src="https://i.imgur.com/ri5PDEs.png" alt="twitter banner">
 
-I'm from Boston, MA and have been programming and practicing web development for two years. I started my journey with Python 3 and moved into specializing in web development once the fundamentals started to click. Always looking for people to interact with on any platform and gain new experience.
+I'm from Boston, MA and have been programming and doing freelance web development for two years. I started my journey with Python 3 and moved into specializing in web development once the fundamentals started to click. Always looking for people to interact with on any platform and gain new experience.
 
 * 🌍  I'm based in Boston, Massachusetts, USA
 * ✉️  You can contact me at [TylerTMcKenna@gmail.com](mailto:TylerTMcKenna@gmail.com)
