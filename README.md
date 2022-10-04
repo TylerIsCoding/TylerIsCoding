@@ -15,7 +15,7 @@ I'm from Boston, MA and have been programming and doing freelance web developmen
 <a href="https://www.twitter.com/tylertmckenna" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tylertmckenna?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><span>  </span><a href="https://www.github.com/TylerIsCoding" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TylerIsCoding?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><span>  </span>
+src="https://img.shields.io/github/followers/TylerIsCoding?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br>
 <a href="https://www.codewars.com/users/TylerIsCoding" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/TylerIsCoding/badges/large"></a>
 ### Skills
 
