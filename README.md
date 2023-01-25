@@ -1,47 +1,195 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tyler
-=====================================================================================================================================
+<a href="https://www.tyleriscoding.com"><img src="https://i.imgur.com/lWn84ax.png" width="100%"/></a>
+<h1 align="center">My name is Tyler McKenna</h1>
 
-I am a Freelance Software Engineer / Web Developer
-
-<img src="https://i.imgur.com/ri5PDEs.png" alt="twitter banner">
-
-I'm from Boston, MA and have been programming and doing freelance web development for two years. I started my journey with Python 3 and moved into specializing in web development once the fundamentals started to click. Always looking for people to interact with on any platform and gain new experience.
-
-* 🌍  I'm based in Boston, Massachusetts, USA
-* ✉️  You can contact me at [TylerTMcKenna@gmail.com](mailto:TylerTMcKenna@gmail.com)
-* 🧠  I'm learning deeper concepts and object oriented programming with JavaScript
-* 🤝  I'm open to collaborating on any open source projects that would help me gain experience.
-
-<a href="https://www.twitter.com/tylertmckenna" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tylertmckenna?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><span>  </span><a href="https://www.github.com/TylerIsCoding" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TylerIsCoding?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br>
-<a href="https://www.codewars.com/users/TylerIsCoding.com" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/TylerIsCoding.com/badges/large"></a>
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <a href="https://www.tyleriscoding.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tyleriscoding/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/tylertmckenna" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://www.instagram.com/tyler_is_coding/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=23555f&style=plastic&logo=instagram&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/tyler-mckenna-1" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://www.tyleriscoding.com/files/Tyler_McKenna_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
 </p>
 
-### Socials
 
-<p align="left"> <a href="https://www.codepen.io/yeoldeknob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Wheeler#5326" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/TylerIsCoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yeoldeknob" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tyler-is-coding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tylertmckenna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+I am a skilled software engineer and web developer with management experience and exceptional communication skills, and I have a deep interest in UI/UX design. I am seeking an opportunity to utilize my passion for creating beautiful, responsive, and accessible websites. Eager to join a dynamic team that values professional growth and development, where I can continue to enhance my skills and make a meaningful impact.
 
-<b>My GitHub Stats</b>
+See [my website](https://www.tyleriscoding.com) for more information!
 
-<a href="http://www.github.com/TylerIsCoding"><img src="https://github-readme-stats.vercel.app/api?username=TylerIsCoding&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TylerIsCoding's GitHub stats" /></a>
 
-<a href="http://www.github.com/TylerIsCoding"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TylerIsCoding&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h1 align="center">Projects</h1>
 
-<!-- <a href="http://www.github.com/TylerIsCoding"><img src="https://activity-graph.herokuapp.com/graph?username=TylerIsCoding&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Paterro's Kitchen</h3>
+        <br />
+        <a target="_blank" href="https://www.tyleriscoding.com/restaurant/index.html">
+            <img src="https://thumbs.gfycat.com/MetallicDisgustingIridescentshark-size_restricted.gif" width="100%" alt="Paterro's Kitchen"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/restaurant" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://www.tyleriscoding.com/restaurant/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Silverpoint Sneakers</h3>
+        <br />
+      <a target="_blank" href="https://www.tyleriscoding.com/shoe-store/index.html">
+            <img src="https://thumbs.gfycat.com/AdvancedVictoriousAcouchi-size_restricted.gif" width="100%"  alt="Silverpoint"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/shoe-store" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://www.tyleriscoding.com/shoe-store/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Silverpoint Sneakers is a website dedicated to providing the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Spectral Salon</h3>
+      <br />
+        <a target="_blank" href="https://www.tyleriscoding.com/salon/index.html">
+          <img src="https://thumbs.gfycat.com/ContentWeeAchillestang-size_restricted.gif" width="100%" alt="Spectral"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/salon" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://www.tyleriscoding.com/salon/index.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">TylerIsCoding.com</h3>
+        <br />
+        <a target="_blank" href="https://www.tyleriscoding.com">
+          <img src="https://thumbs.gfycat.com/ShyPointlessJaguar-size_restricted.gif" width="100%" alt="Portfolio Website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://www.tyleriscoding.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - My personal software engineering / freelancing portfolio website that includes examples of my work and ways to get in contact with me.</p>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Brick Breaker!</h3>
+      <br />
+        <a target="_blank" href="https://tyleriscoding.github.io/Brickbreaker/">
+          <img src="https://thumbs.gfycat.com/CloudyFavorableHermitcrab-size_restricted.gif" width="100%" alt="Spectral"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/TylerIsCoding/Brickbreaker" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://tyleriscoding.github.io/Brickbreaker/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - An Arkanoid type game built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Blackjack</h3>
+        <br />
+        <a target="_blank" href="https://tyleriscoding.github.io/Blackjack/">
+          <img src="https://thumbs.gfycat.com/ImpoliteAgreeableKawala-size_restricted.gif" width="100%" alt="Portfolio Website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://tyleriscoding.github.io/Blackjack/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Blackjack game built froms scratch using the OOP paradigm. User's can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.</p>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/TylerIsCoding" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TylerIsCoding&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h1 align="center">Technologies</h1>
+
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+</p>
+
+---
+
+
+<h1 align="center">Connect</h1>
+
+
+<p align="center">
+  <a href="https://www.tyleriscoding.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tyleriscoding/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/tylertmckenna" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://www.instagram.com/tyler_is_coding/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=23555f&style=plastic&logo=instagram&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/tyler-mckenna-1" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://www.tyleriscoding.com/files/Tyler_McKenna_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
+
+<p align="center"><img src="https://www.codewars.com/users/TylerIsCoding.com/badges/large"></p>
