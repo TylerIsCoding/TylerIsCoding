@@ -135,7 +135,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com" target="_blank">
+  <a href="https://github.com/TylerIsCoding/Blackjack" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://tyleriscoding.github.io/Blackjack/" target="_blank">
