@@ -3,22 +3,22 @@
 
 <p align="center">
   <a href="https://www.tyleriscoding.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tyleriscoding/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=DF4986&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/tylertmckenna" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=DF4986&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://www.instagram.com/tyler_is_coding/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=23555f&style=plastic&logo=instagram&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=DF4986&style=plastic&logo=instagram&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/tyler-mckenna-1" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=DF4986&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://www.tyleriscoding.com/files/Tyler_McKenna_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=DF4986&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
@@ -43,10 +43,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/restaurant" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://www.tyleriscoding.com/restaurant/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.</p>
@@ -61,10 +61,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/shoe-store" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://www.tyleriscoding.com/shoe-store/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Silverpoint Sneakers is a website dedicated to providing the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.</p>
@@ -81,10 +81,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <br />
         <p align="center">
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/salon" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://www.tyleriscoding.com/salon/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more.</p>
@@ -99,10 +99,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://www.tyleriscoding.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - My personal software engineering / freelancing portfolio website that includes examples of my work and ways to get in contact with me.</p>
@@ -118,10 +118,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <br />
         <p align="center">
   <a href="https://github.com/TylerIsCoding/Brickbreaker" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://tyleriscoding.github.io/Brickbreaker/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - An Arkanoid type game built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.</p>
@@ -136,10 +136,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/Blackjack" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://tyleriscoding.github.io/Blackjack/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Blackjack game built froms scratch using the OOP paradigm. User's can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.</p>
@@ -151,18 +151,20 @@ See [my website](https://www.tyleriscoding.com) for more information!
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=DF4986&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=DF4986&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=VISUAL STUDIO&color=DF4986&style=plastic&logo=visualstudio"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=DF4986&style=plastic&logo=figma"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=DF4986&style=plastic&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=DF4986&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=DF4986&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=DF4986&style=plastic&logo=python"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=DF4986&style=plastic&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=DF4986&style=plastic&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=DF4986&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=DF4986&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=DF4986&style=plastic&logo=linux"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=DF4986&style=plastic&logo=git"/>
 </p>
 
 ---
@@ -173,22 +175,22 @@ See [my website](https://www.tyleriscoding.com) for more information!
 
 <p align="center">
   <a href="https://www.tyleriscoding.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tyleriscoding/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=DF4986&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/tylertmckenna" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=DF4986&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://www.instagram.com/tyler_is_coding/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=23555f&style=plastic&logo=instagram&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=DF4986&style=plastic&logo=instagram&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/tyler-mckenna-1" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=DF4986&style=plastic&logo=angellist&logo-color=white"/>
   </a>
   <a href="https://www.tyleriscoding.com/files/Tyler_McKenna_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=DF4986&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
