@@ -142,7 +142,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Blackjack game built froms scratch using the OOP paradigm. User's can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.</p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Blackjack game built from scratch using the OOP paradigm. Users can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.</p>
     </td>
   </tr>
 </table>
