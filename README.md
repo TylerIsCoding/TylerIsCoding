@@ -124,7 +124,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - An Breakout! clone built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.</p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - A Breakout clone built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Blackjack</h3>
