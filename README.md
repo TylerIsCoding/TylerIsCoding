@@ -200,7 +200,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=DF4986&style=plastic&logo=python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=DF4986&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=DF4986&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=HANDLEBARS&color=DF4986&style=plastic&logo=handlebars"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HANDLEBARS&color=DF4986&style=plastic&logo=ejs"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS.JS&color=DF4986&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=DF4986&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=DF4986&style=plastic&logo=git"/>
