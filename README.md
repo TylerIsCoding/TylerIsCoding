@@ -52,10 +52,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p><strong>MongoDB, Mongoose, Express.js, Handlebars, Node.js, HTML5, CSS3, and JavaScript</strong> - Quest Log is a web application that leverages Google OAuth for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for our ongoing Dungeons and Dragons campaign.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Silverpoint Sneakers</h3>
+      <h3 align="center">JessiNaff.com</h3>
         <br />
-      <a target="_blank" href="https://www.tyleriscoding.com/shoe-store/index.html">
-            <img src="https://thumbs.gfycat.com/AdvancedVictoriousAcouchi-size_restricted.gif" width="100%"  alt="Silverpoint"/>
+      <a target="_blank" href="https://www.jessinaff.com">
+            <img src="https://i.imgur.com/joSGg3f.png" width="100%"  alt="JessiNaff.com"/>
         </a>
         <br />
         <p align="center">
