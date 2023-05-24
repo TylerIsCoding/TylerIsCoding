@@ -60,14 +60,11 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/shoe-store" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://www.tyleriscoding.com/shoe-store/index.html" target="_blank">
+  <a href="https://www.jessinaff.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Silverpoint Sneakers is a website dedicated to providing the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.</p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - JessiNaff.com is a website made for my client Jessi Naff who is a psychotherapist and dance movement therapist. It provides her current and prospective clients information about psychotherapy, movement therapy, and licensure consultation.</p>
     </td>
   </tr>
   
