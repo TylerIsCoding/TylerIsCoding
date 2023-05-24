@@ -34,22 +34,22 @@ See [my website](https://www.tyleriscoding.com) for more information!
   
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Paterro's Kitchen</h3>
+      <h3 align="center">Quest Log</h3>
         <br />
-        <a target="_blank" href="https://www.tyleriscoding.com/restaurant/index.html">
-            <img src="https://thumbs.gfycat.com/MetallicDisgustingIridescentshark-size_restricted.gif" width="100%" alt="Paterro's Kitchen"/>
+        <a target="_blank" href="https://quest-log.cyclic.app">
+            <img src="https://i.imgur.com/ehurLB1.jpg" width="100%" alt="Quest Log"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/restaurant" target="_blank">
+  <a href="https://github.com/TylerIsCoding/QuestLog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://www.tyleriscoding.com/restaurant/index.html" target="_blank">
+  <a href="https://quest-log.cyclic.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.</p>
+        <p><strong>MongoDB, Mongoose, Express.js, Handlebars, Node.js, HTML5, CSS3, and JavaScript</strong> - Quest Log is a web application that leverages Google OAuth for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for our ongoing Dungeons and Dragons campaign.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Silverpoint Sneakers</h3>
