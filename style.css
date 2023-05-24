@@ -1,0 +1,9 @@
+@media screen and (max-width: 1000px) {
+  .markdown-body table th, .markdown-body table td {
+    width: 100% !important;
+  }
+  .markdown-body table tr {
+    display: inline-flex !important;
+    flex-direction: column !important;
+  }
+}
