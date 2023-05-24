@@ -35,7 +35,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
 <table bordercolor="#66b2b2">
   
    <tr>
-    <td width="50%" valign="top" min-width="400px">
+    <td width="50%" valign="top">
       <h3 align="center">Quest Log</h3>
         <br />
         <a target="_blank" href="https://quest-log.cyclic.app">
