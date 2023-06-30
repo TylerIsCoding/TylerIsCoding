@@ -57,7 +57,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <h3 align="center">JessiNaff.com</h3>
         <br />
       <a target="_blank" href="https://www.jessinaff.com">
-            <img src="https://i.imgur.com/joSGg3f.png" width="100%"  alt="JessiNaff.com"/>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNrYjlkd3ZiZ2J5YzR3bHR1OHphend0MHdhbm1mYmdid2Y2dG1sdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UTWuh1tr8ITHYrs5V/giphy.gif" width="100%"  alt="JessiNaff.com"/>
         </a>
         <br />
         <p align="center">
