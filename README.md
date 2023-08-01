@@ -232,4 +232,4 @@ See [my website](https://www.tyleriscoding.com) for more information!
   </a>
 </p>
 
-<p align="center"><img src="https://www.codewars.com/users/TylerIsCoding.com/badges/large"></p>
+<p align="center"><img src="https://www.codewars.com/users/TylerIsCoding/badges/large"></p>
