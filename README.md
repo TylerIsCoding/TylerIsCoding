@@ -66,7 +66,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - JessiNaff.com is a website made for my client Jessi Naff who is a psychotherapist and dance movement therapist. It provides her current and prospective clients information about psychotherapy, movement therapy, and licensure consultation.</p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - JessiNaff.com is a website made for my client Jessi Naff who is a psychotherapist and dance movement therapist. It provides her current and prospective clients with information about psychotherapy, movement therapy, and licensure consultation.</p>
     </td>
   </tr>
   
