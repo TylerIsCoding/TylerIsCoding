@@ -131,7 +131,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <h3 align="center">TylerIsCoding.com</h3>
         <br />
         <a target="_blank" href="https://www.tyleriscoding.com">
-          <img src="https://thumbs.gfycat.com/ShyPointlessJaguar-size_restricted.gif" width="100%" alt="Portfolio Website"/>
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhqdWxiM3RpamxmdjRjYTI1dTk3aDdiZWtjYWZtN2syd2ttbTlzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QiHnoEDtJDNhWsajlU/giphy.gif" width="100%" alt="Portfolio Website"/>
         </a>
         <br />
         <p align="center">
