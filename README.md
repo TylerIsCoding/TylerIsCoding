@@ -151,7 +151,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <h3 align="center">Brick Breaker!</h3>
       <br />
         <a target="_blank" href="https://tyleriscoding.github.io/Brickbreaker/">
-          <img src="https://thumbs.gfycat.com/CloudyFavorableHermitcrab-size_restricted.gif" width="100%" alt="Spectral"/>
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhqdWxiM3RpamxmdjRjYTI1dTk3aDdiZWtjYWZtN2syd2ttbTlzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QiHnoEDtJDNhWsajlU/giphy.gif" width="100%" alt="Spectral"/>
         </a>
       <br />
         <p align="center">
