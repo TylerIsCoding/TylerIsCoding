@@ -114,7 +114,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <h3 align="center">Spectral Salon</h3>
       <br />
         <a target="_blank" href="https://www.tyleriscoding.com/salon/index.html">
-          <img src="https://thumbs.gfycat.com/ContentWeeAchillestang-size_restricted.gif" width="100%" alt="Spectral"/>
+          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHV1cDk1MWp5M2RkM2hkZWFsdHM2NGRzMGdianZrejcwb3BzanB4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2xKS6kuzYH8EvM3GY/giphy.gif" width="100%" alt="Spectral"/>
         </a>
       <br />
         <p align="center">
