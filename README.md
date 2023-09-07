@@ -75,7 +75,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <h3 align="center">Paterro's Kitchen</h3>
         <br />
         <a target="_blank" href="https://www.tyleriscoding.com/restaurant/index.html">
-            <img src="https://thumbs.gfycat.com/MetallicDisgustingIridescentshark-size_restricted.gif" width="100%" alt="Paterro's Kitchen"/>
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZjcG45M2JodDRlMXQ2N2pocHdrcTFicjdnYXZ4ZW92MWowZ3ZtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3awpsdkMGW0k0ByFDC/giphy.gif" width="100%" alt="Paterro's Kitchen"/>
         </a>
         <br />
         <p align="center">
