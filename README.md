@@ -25,7 +25,7 @@
 </p>
 
 
-I am a skilled software engineer and web developer with management experience and exceptional communication skills, and I have a deep interest in UI/UX design. I am seeking an opportunity to utilize my passion for creating beautiful, responsive, and accessible websites. Eager to join a dynamic team that values professional growth and development, where I can continue to enhance my skills and make a meaningful impact.
+I am a skilled software engineer and web developer with management experience and exceptional communication skills, and I have a deep interest in UI/UX design. I am seeking an opportunity to utilize my passion for creating beautiful, responsive, and accessible websites and applications. I am eager to join a dynamic team that values professional growth and development, where I can continue to enhance my skills and make a meaningful impact.
 
 See [my website](https://www.tyleriscoding.com) for more information!
 
