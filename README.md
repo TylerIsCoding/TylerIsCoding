@@ -168,7 +168,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <h3 align="center">Blackjack</h3>
         <br />
         <a target="_blank" href="https://tyleriscoding.github.io/Blackjack/">
-          <img src="https://thumbs.gfycat.com/ImpoliteAgreeableKawala-size_restricted.gif" width="100%" alt="Portfolio Website"/>
+          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF4aGg3NTdsMmtud3E3N3hqbHBlcWRwZ21rZ2tucTNneGY2bDJhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bf8kUkiFAxvUZZ3136/giphy.gif" width="100%" alt="Portfolio Website"/>
         </a>
         <br />
         <p align="center">
