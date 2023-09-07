@@ -93,7 +93,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <h3 align="center">Silverpoint Sneakers</h3>
         <br />
       <a target="_blank" href="https://www.tyleriscoding.com/shoe-store/index.html">
-            <img src="https://thumbs.gfycat.com/AdvancedVictoriousAcouchi-size_restricted.gif" width="100%"  alt="Silverpoint"/>
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lpM3BoaGV3NmU3cWpobWRuaTFjdnFqYTkybnFvc2FiZ2h3aW9sZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1lhcl4QKyYUBZzsXS/giphy.gif" width="100%"  alt="Silverpoint"/>
         </a>
         <br />
         <p align="center">
