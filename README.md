@@ -38,7 +38,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <h3 align="center">DM Companion</h3>
         <br />
        <div>
-        <video src="https://github-production-user-asset-6210df.s3.amazonaws.com/57774747/285038106-3a9f6df5-ca3e-46f2-9089-50ef79397664.mp4"></video>
+        <video src="https://github-production-user-asset-6210df.s3.amazonaws.com/57774747/285038106-3a9f6df5-ca3e-46f2-9089-50ef79397664.mp4" align="center"></video>
        </div>
         <br />
         <p align="center">
