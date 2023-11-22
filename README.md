@@ -36,22 +36,6 @@ See [my website](https://www.tyleriscoding.com) for more information!
 
   <tr>
     <td width="100%" valign="top">
-    <h3 align="center">Quest Log</h3>
-        <br />
-        <a target="_blank" href="https://quest-log.cyclic.app">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEybXlmZzB1YmJhcXIyZ3gzbno2MnUzczc2ZzZmendqYm9pYm1pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nmsRt6Y1DvuYx5OIyI/giphy.gif" width="100%" alt="Quest Log"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/TylerIsCoding/QuestLog" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://quest-log.cyclic.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>MongoDB, Mongoose, Express.js, Handlebars, Node.js, HTML5, CSS3, and JavaScript</strong> - Quest Log is a web application that leverages Google OAuth for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for our ongoing Dungeons and Dragons campaign.</p>
     </td>
   </tr>
   
