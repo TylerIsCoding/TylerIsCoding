@@ -32,6 +32,9 @@ See [my website](https://www.tyleriscoding.com) for more information!
 
 <h1 align="center">Projects</h1>
 
+<table bordercolor="#66b2b2">
+</table>
+
 <table bordercolor="#66b2b2">  
    <tr>
     <td width="50%" valign="top">
