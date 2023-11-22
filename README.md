@@ -38,7 +38,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <h3 align="center">DM Companion</h3>
         <br />
         <a target="_blank" href="">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEybXlmZzB1YmJhcXIyZ3gzbno2MnUzczc2ZzZmendqYm9pYm1pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nmsRt6Y1DvuYx5OIyI/giphy.gif" width="100%" alt="DM Companion"/>
+            <img src="https://i.imgur.com/K9VQhsi.png" width="100%" alt="DM Companion"/>
         </a>
         <br />
         <p align="center">
