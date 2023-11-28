@@ -42,9 +42,6 @@ See [my website](https://www.tyleriscoding.com) for more information!
   <a href="https://github.com/TylerIsCoding/DM_Companion" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
   </a>  
-<!--   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
-  </a> -->
       </p>
         <p><strong>React, MongoDB, Mongoose, Express.js, Node.js, HTML5, CSS3, and JavaScript</strong> - The DM Companion is a web application that leverages JWT's for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for their ongoing Dungeons and Dragons campaign. Users also have access to the DnD 5th Edition Monster Manual API, and an Encounter Tracker that gives access to an initiative tracker, a dice roller, and a health tracker app.</p>
      </td>
