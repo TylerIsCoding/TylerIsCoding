@@ -43,7 +43,19 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
   </a>  
       </p>
-        <p><strong>React, MongoDB, Mongoose, Express.js, Node.js, HTML5, CSS3, and JavaScript</strong> - The DM Companion is a web application that leverages JWT's for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for their ongoing Dungeons and Dragons campaign. Users also have access to the DnD 5th Edition Monster Manual API, and an Encounter Tracker that gives access to an initiative tracker, a dice roller, and a health tracker app.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/MongoDB-website?style=flat&logo=Mongodb&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/Mongoose-website?style=flat&logo=mongoose&logoColor=white&color=df4986">
+          <img src="https://img.shields.io/badge/Node.js-website?style=flat&logo=nodedotjs&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/React-website?style=flat&logo=react&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/Express.js-website?style=flat&logo=express&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+          <p>
+           The DM Companion is a web application that leverages JWT's for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for their ongoing Dungeons and Dragons campaign. Users also have access to the DnD 5th Edition Monster Manual API, and an Encounter Tracker that gives access to an initiative tracker, a dice roller, and a health tracker app. 
+          </p>         
+        </p>
      </td>
   </tr>
 </table>
@@ -66,7 +78,12 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><strong>MongoDB, Mongoose, Express.js, Handlebars, Node.js, HTML5, CSS3, and JavaScript</strong> - Quest Log is a web application that leverages Google OAuth for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for our ongoing Dungeons and Dragons campaign.</p>
+        <p align="center">
+          MongoDB, Mongoose, Express.js, Handlebars, Node.js, HTML5, CSS3, and JavaScript
+          <p>
+           Quest Log is a web application that leverages Google OAuth for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for our ongoing Dungeons and Dragons campaign. 
+          </p>
+          </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">JessiNaff.com</h3>
@@ -81,7 +98,9 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - JessiNaff.com is a website made for my client Jessi Naff who is a psychotherapist and dance movement therapist. It provides her current and prospective clients with information about psychotherapy, movement therapy, and licensure consultation.</p>
+        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - JessiNaff.com is a website made for my client Jessi Naff who is a psychotherapist and dance movement therapist. It provides her current and prospective clients with information about psychotherapy, movement therapy, and licensure consultation.</p>
     </td>
   </tr>
   
@@ -102,7 +121,9 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.</p>
+        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Silverpoint Sneakers</h3>
@@ -120,7 +141,9 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Silverpoint Sneakers is a website dedicated to providing the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.</p>
+        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - Silverpoint Sneakers is a website dedicated to providing the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.</p>
     </td>
   </tr>
   
@@ -140,7 +163,9 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more.</p>
+        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">TylerIsCoding.com</h3>
@@ -158,7 +183,9 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - My personal software engineering / freelancing portfolio website that includes examples of my work and ways to get in contact with me.</p>
+        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - My personal software engineering / freelancing portfolio website that includes examples of my work and ways to get in contact with me.</p>
     </td>
   </tr>
     <tr>
@@ -177,7 +204,9 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - A Breakout clone built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.</p>
+        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - A Breakout clone built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Blackjack</h3>
@@ -195,7 +224,9 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Blackjack game built from scratch using the OOP paradigm. Users can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.</p>
+        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - Blackjack game built from scratch using the OOP paradigm. Users can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.</p>
     </td>
   </tr>
 </table>
