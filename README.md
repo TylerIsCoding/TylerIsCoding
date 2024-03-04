@@ -40,7 +40,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/DM_Companion" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
   </a>  
       </p>
         <p align="center">
@@ -72,10 +72,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/QuestLog" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
   </a>  
   <a href="https://quest-log.cyclic.app" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p align="center">
@@ -102,7 +102,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://www.jessinaff.com" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p align="center">
@@ -127,10 +127,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/restaurant" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
   </a>  
   <a href="https://www.tyleriscoding.com/restaurant/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p align="center">
@@ -151,10 +151,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/shoe-store" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://www.tyleriscoding.com/shoe-store/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p align="center">
@@ -178,10 +178,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <br />
         <p align="center">
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/salon" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://www.tyleriscoding.com/salon/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p align="center">
@@ -203,10 +203,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://www.tyleriscoding.com" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p align="center">
@@ -229,10 +229,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <br />
         <p align="center">
   <a href="https://github.com/TylerIsCoding/Brickbreaker" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://tyleriscoding.github.io/Brickbreaker/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p align="center">
@@ -254,10 +254,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/Blackjack" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://tyleriscoding.github.io/Blackjack/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p align="center">
