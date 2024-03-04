@@ -79,7 +79,14 @@ See [my website](https://www.tyleriscoding.com) for more information!
   </a>
       </p>
         <p align="center">
-          MongoDB, Mongoose, Express.js, Handlebars, Node.js, HTML5, CSS3, and JavaScript
+          <img src="https://img.shields.io/badge/MongoDB-website?style=flat&logo=Mongodb&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/Mongoose-website?style=flat&logo=mongoose&logoColor=white&color=df4986">
+          <img src="https://img.shields.io/badge/Express.js-website?style=flat&logo=express&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/Handlebars.js-website?style=flat&logo=handlebarsdotjs&logoColor=white&color=df4986">
+          <img src="https://img.shields.io/badge/Node.js-website?style=flat&logo=nodedotjs&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
           <p>
            Quest Log is a web application that leverages Google OAuth for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for our ongoing Dungeons and Dragons campaign. 
           </p>
@@ -121,9 +128,11 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.</p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+          - Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Silverpoint Sneakers</h3>
