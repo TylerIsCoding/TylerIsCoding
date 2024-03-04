@@ -105,9 +105,14 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - JessiNaff.com is a website made for my client Jessi Naff who is a psychotherapist and dance movement therapist. It provides her current and prospective clients with information about psychotherapy, movement therapy, and licensure consultation.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+          <p>
+            JessiNaff.com is a website made for my client Jessi Naff, a psychotherapist and dance movement therapist. It provides her current and prospective clients with information about psychotherapy, movement therapy, and licensure consultation. 
+          </p>
+         </p>
     </td>
   </tr>
   
@@ -128,11 +133,13 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p>
+        <p align="center">
           <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
           <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
           <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          - Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.</p>
+          <p>
+            Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.
+          </p></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Silverpoint Sneakers</h3>
@@ -150,9 +157,14 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - Silverpoint Sneakers is a website dedicated to providing the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+          <p>
+            Silverpoint Sneakers is a website that provides the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.  
+          </p>
+          </p>
     </td>
   </tr>
   
@@ -172,9 +184,14 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+          <p>
+           Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more. 
+          </p>
+          </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">TylerIsCoding.com</h3>
@@ -192,9 +209,14 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - My personal software engineering / freelancing portfolio website that includes examples of my work and ways to get in contact with me.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+          <p>
+            My personal software engineering / freelancing portfolio website includes examples of my work and ways to contact me.  
+          </p>
+          </p>
     </td>
   </tr>
     <tr>
@@ -213,9 +235,14 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - A Breakout clone built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+          <p>
+            A Breakout clone built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.  
+          </p>
+          </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Blackjack</h3>
@@ -233,9 +260,14 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
-        <p><img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> - Blackjack game built from scratch using the OOP paradigm. Users can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+          <p>
+            Blackjack game built from scratch using the OOP paradigm. Users can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.
+          </p>
+          </p>
     </td>
   </tr>
 </table>
