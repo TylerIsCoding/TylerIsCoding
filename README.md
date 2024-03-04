@@ -5,22 +5,22 @@
 
 <p align="center">
   <a href="https://www.tyleriscoding.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-website?style=flat&logo=Google%20Chrome&logoColor=white&color=df4986"/>
   </a>
   <a href="https://www.linkedin.com/in/tyleriscoding/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=DF4986&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-website?style=flat&logo=LinkedIn&logoColor=white&color=df4986"/>
   </a>
   <a href="https://twitter.com/tylertmckenna" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=DF4986&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/badge/Twitter-website?style=flat&logo=Twitter&logoColor=white&color=df4986"/>
   </a>
   <a href="https://www.instagram.com/tyler_is_coding/" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=INSTAGRAM&color=DF4986&style=plastic&logo=instagram&logo-color=white"/>
+      <img src="https://img.shields.io/badge/Instagram-website?style=flat&logo=Instagram&logoColor=white&color=df4986"/>
   </a>
   <a href="https://angel.co/u/tyler-mckenna-1" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=DF4986&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/badge/Wellfound-website?style=flat&logo=wellfound&logoColor=white&color=df4986"/>
   </a>
   <a href="https://www.tyleriscoding.com/files/Tyler_McKenna_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=DF4986&style=plastic&logo=react&logo-color=white"/>
+      <img src="https://img.shields.io/badge/Resume-website?style=flat&logo=readme&logoColor=white&color=df4986"/>
   </a>
 </p>
 
