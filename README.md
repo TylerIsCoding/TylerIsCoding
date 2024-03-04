@@ -40,7 +40,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/DM_Companion" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
   </a>  
       </p>
         <p><strong>React, MongoDB, Mongoose, Express.js, Node.js, HTML5, CSS3, and JavaScript</strong> - The DM Companion is a web application that leverages JWT's for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for their ongoing Dungeons and Dragons campaign. Users also have access to the DnD 5th Edition Monster Manual API, and an Encounter Tracker that gives access to an initiative tracker, a dice roller, and a health tracker app.</p>
@@ -60,10 +60,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/QuestLog" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
   </a>  
   <a href="https://quest-log.cyclic.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p><strong>MongoDB, Mongoose, Express.js, Handlebars, Node.js, HTML5, CSS3, and JavaScript</strong> - Quest Log is a web application that leverages Google OAuth for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for our ongoing Dungeons and Dragons campaign.</p>
@@ -78,7 +78,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://www.jessinaff.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - JessiNaff.com is a website made for my client Jessi Naff who is a psychotherapist and dance movement therapist. It provides her current and prospective clients with information about psychotherapy, movement therapy, and licensure consultation.</p>
@@ -96,10 +96,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/restaurant" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
   </a>  
   <a href="https://www.tyleriscoding.com/restaurant/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.</p>
@@ -114,10 +114,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/shoe-store" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://www.tyleriscoding.com/shoe-store/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Silverpoint Sneakers is a website dedicated to providing the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.</p>
@@ -134,10 +134,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <br />
         <p align="center">
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/salon" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://www.tyleriscoding.com/salon/index.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more.</p>
@@ -152,10 +152,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/TylerIsCoding.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://www.tyleriscoding.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - My personal software engineering / freelancing portfolio website that includes examples of my work and ways to get in contact with me.</p>
@@ -171,10 +171,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
       <br />
         <p align="center">
   <a href="https://github.com/TylerIsCoding/Brickbreaker" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://tyleriscoding.github.io/Brickbreaker/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - A Breakout clone built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.</p>
@@ -189,10 +189,10 @@ See [my website](https://www.tyleriscoding.com) for more information!
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/Blackjack" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=DF4986&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/badge/REPO-website?style=flat&logo=github&logoColor=white&color=df4986">
   </a>
   <a href="https://tyleriscoding.github.io/Blackjack/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=DF4986&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=flat&logo=google%20chrome&logoColor=white&color=df4986">
   </a>
       </p>
         <p><strong>Javascript, HTML5, CSS3</strong> - Blackjack game built from scratch using the OOP paradigm. Users can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.</p>
@@ -202,26 +202,37 @@ See [my website](https://www.tyleriscoding.com) for more information!
 
 <h1 align="center">Technologies</h1>
 
-
+<h4 align="center">Languages/Databases</h4>
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=VISUAL STUDIO&color=DF4986&style=plastic&logo=visualstudio"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=DF4986&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=DF4986&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=DF4986&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=DF4986&style=plastic&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=DF4986&style=plastic&logo=figma"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=DF4986&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT&color=DF4986&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=DF4986&style=plastic&logo=python"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=DF4986&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=DF4986&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=DF4986&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=DF4986&style=plastic&logo=linux"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=DF4986&style=plastic&logo=git"/>
+  <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/TypeScript-website?style=flat&logo=typescript&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/Python-website?style=flat&logo=python&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/C%23-website?style=flat&logo=C%23&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/SQLite-website?style=flat&logo=sqlite&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/PostgreSQL-website?style=flat&logo=postgresql&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/MongoDB-website?style=flat&logo=Mongodb&logoColor=white&color=df4986"/>
 </p>
-
----
-
+<h4 align="center">Frameworks/Libraries</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-website?style=flat&logo=nodedotjs&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/React-website?style=flat&logo=react&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/Express.js-website?style=flat&logo=express&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/Handlebars.js-website?style=flat&logo=handlebarsdotjs&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/ASP.NET-website?style=flat&logo=dotnet&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/jQuery-website?style=flat&logo=jquery&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/Mongoose-website?style=flat&logo=mongoose&logoColor=white&color=df4986">
+</p>
+<h4 align="center">Other</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-website?style=flat&logo=visual%20studio&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-website?style=flat&logo=visualstudiocode&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/Figma-website?style=flat&logo=figma&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/GitHub-website?style=flat&logo=github&logoColor=white&color=df4986"/>
+  <img src="https://img.shields.io/badge/JEST-website?style=flat&logo=jest&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/Adobe%20Software%20Suite-website?style=flat&logo=Adobe&logoColor=white&color=df4986">
+</p>
 
 <h1 align="center">Connect</h1>
 
