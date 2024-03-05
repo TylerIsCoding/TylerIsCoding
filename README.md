@@ -60,6 +60,30 @@ See [my website](https://www.tyleriscoding.com) for more information!
   </tr>
 </table>
 
+<table bordercolor="#66b2b2">
+  <tr>
+     <td width="100%" valign="top">
+      <h3 align="center">Girdle</h3>
+        <img style="width=100%"
+          src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlyN2tyYmd2bzVoY2dyb3Vmc2tmMW4wYTZ3NHdkaHcwemd5b2x5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TSrmRAwZNPPwPr9V3Z/giphy.gif"/>
+        <p align="center">
+          
+  <a href="https://github.com/TylerIsCoding/Girdle" target="_blank">
+    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
+  </a>  
+      </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+          <p>
+           Girdle is a simple Wordle clone that stores the user's score in localstorage. The word changes daily and if the user guesses the word on their first try, they get extra points. The project was created with simple HTML, CSS, and JavaScript.
+          </p>         
+        </p>
+     </td>
+  </tr>
+</table>
+
 <table bordercolor="#66b2b2">  
    <tr>
     <td width="50%" valign="top">
