@@ -1,6 +1,6 @@
 <link rel="stylesheet" src="style.css">
 
-<a href="https://www.tyleriscoding.com"><img src="https://i.imgur.com/lWn84ax.png" width="100%"/></a>
+<a href="https://www.tyleriscoding.com"><img src="https://i.imgur.com/9q3Fkl4.png" width="100%"/></a>
 <h1 align="center">My name is Tyler McKenna</h1>
 
 <p align="center">
