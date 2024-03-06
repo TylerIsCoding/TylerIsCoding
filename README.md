@@ -273,6 +273,11 @@ See [my website](https://www.tyleriscoding.com) for more information!
 
 <h4 align="center">Languages/Databases</h4>
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,sqlite,postgres,mongodb" />
+  </a>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
   <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
   <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
@@ -285,6 +290,11 @@ See [my website](https://www.tyleriscoding.com) for more information!
 </p>
 <h4 align="center">Frameworks/Libraries</h4>
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,express,dotnet,jquery" />
+  </a>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-website?style=flat&logo=nodedotjs&logoColor=white&color=df4986"/>
   <img src="https://img.shields.io/badge/React-website?style=flat&logo=react&logoColor=white&color=df4986"/>
   <img src="https://img.shields.io/badge/Express.js-website?style=flat&logo=express&logoColor=white&color=df4986"/>
@@ -294,6 +304,11 @@ See [my website](https://www.tyleriscoding.com) for more information!
   <img src="https://img.shields.io/badge/Mongoose-website?style=flat&logo=mongoose&logoColor=white&color=df4986">
 </p>
 <h4 align="center">Other</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,figma,git,github,jest,ps,ai,ae,npm,netlify" />
+  </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-website?style=flat&logo=visual%20studio&logoColor=white&color=df4986"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-website?style=flat&logo=visualstudiocode&logoColor=white&color=df4986">
