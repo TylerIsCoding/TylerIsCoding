@@ -59,7 +59,9 @@ See [my website](https://www.tyleriscoding.com) for more information!
      </td>
      <td width="50%" valign="top">
       <h3 align="center">Girdle</h3>
+       <a href="https://github.com/TylerIsCoding/Girdle" target="_blank">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlyN2tyYmd2bzVoY2dyb3Vmc2tmMW4wYTZ3NHdkaHcwemd5b2x5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TSrmRAwZNPPwPr9V3Z/giphy.gif"/>
+       </a>
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/Girdle" target="_blank">
