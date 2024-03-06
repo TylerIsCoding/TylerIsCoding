@@ -225,7 +225,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Brick Breaker!</h3>
       <a target="_blank" href="https://tyleriscoding.github.io/Brickbreaker/">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ1amRqem1qMjJwaXlxMnA1ZGNseWdzYXYzbDBzNmh0eG1wemg5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gwHr7sJFCVFhPP6iBG/giphy.gif" width="100%" alt="Spectral"/>
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhrbmpqOTBlaTMzZTFyendxZ2Jpd2QybDl4NWt3dXY1YmVyNWl4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n62oNFKeqsy3JI6WUP/giphy.gif" width="100%" alt="Spectral"/>
       </a>
       <p align="center">
         <a href="https://github.com/TylerIsCoding/Brickbreaker" target="_blank">
