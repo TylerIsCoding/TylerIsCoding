@@ -175,107 +175,96 @@ See [my website](https://www.tyleriscoding.com) for more information!
       </div>
     </td>
   </tr>
-  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Spectral Salon</h3>
-      <br />
-        <a target="_blank" href="https://www.tyleriscoding.com/salon/index.html">
-          <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHV1cDk1MWp5M2RkM2hkZWFsdHM2NGRzMGdianZrejcwb3BzanB4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2xKS6kuzYH8EvM3GY/giphy.gif" width="100%" alt="Spectral"/>
+      <a target="_blank" href="https://www.tyleriscoding.com/salon/index.html">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHV1cDk1MWp5M2RkM2hkZWFsdHM2NGRzMGdianZrejcwb3BzanB4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i2xKS6kuzYH8EvM3GY/giphy.gif" width="100%" alt="Spectral"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/salon" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
         </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/salon" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>
-  <a href="https://www.tyleriscoding.com/salon/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
-  </a>
+        <a href="https://www.tyleriscoding.com/salon/index.html" target="_blank">
+          <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+        </a>
       </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-           Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more. 
-          </p>
-          </p>
+      <p>
+       Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more. 
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+      </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">TylerIsCoding.com</h3>
-        <br />
-        <a target="_blank" href="https://www.tyleriscoding.com">
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhqdWxiM3RpamxmdjRjYTI1dTk3aDdiZWtjYWZtN2syd2ttbTlzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QiHnoEDtJDNhWsajlU/giphy.gif" width="100%" alt="Portfolio Website"/>
+      <a target="_blank" href="https://www.tyleriscoding.com">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhqdWxiM3RpamxmdjRjYTI1dTk3aDdiZWtjYWZtN2syd2ttbTlzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QiHnoEDtJDNhWsajlU/giphy.gif" width="100%" alt="Portfolio Website"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/TylerIsCoding/TylerIsCoding.com" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>
-  <a href="https://www.tyleriscoding.com" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
-  </a>
+        <a href="https://www.tyleriscoding.com" target="_blank">
+          <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+        </a>
       </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-            My personal software engineering / freelancing portfolio website includes examples of my work and ways to contact me.  
-          </p>
-          </p>
+      <p>
+        My personal software engineering / freelancing portfolio website includes examples of my work and ways to contact me.  
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+      </div>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Brick Breaker!</h3>
-      <br />
-        <a target="_blank" href="https://tyleriscoding.github.io/Brickbreaker/">
-          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ1amRqem1qMjJwaXlxMnA1ZGNseWdzYXYzbDBzNmh0eG1wemg5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gwHr7sJFCVFhPP6iBG/giphy.gif" width="100%" alt="Spectral"/>
+      <a target="_blank" href="https://tyleriscoding.github.io/Brickbreaker/">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ1amRqem1qMjJwaXlxMnA1ZGNseWdzYXYzbDBzNmh0eG1wemg5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gwHr7sJFCVFhPP6iBG/giphy.gif" width="100%" alt="Spectral"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/TylerIsCoding/Brickbreaker" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
         </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/TylerIsCoding/Brickbreaker" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>
-  <a href="https://tyleriscoding.github.io/Brickbreaker/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
-  </a>
+        <a href="https://tyleriscoding.github.io/Brickbreaker/" target="_blank">
+          <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+        </a>
       </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-            A Breakout clone built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.  
-          </p>
-          </p>
+      <p>
+        A Breakout clone built using the OOP paradigm and the canvas. It has 3 levels, a pause function, and a loss state.  
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+      </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Blackjack</h3>
-        <br />
-        <a target="_blank" href="https://tyleriscoding.github.io/Blackjack/">
-          <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF4aGg3NTdsMmtud3E3N3hqbHBlcWRwZ21rZ2tucTNneGY2bDJhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bf8kUkiFAxvUZZ3136/giphy.gif" width="100%" alt="Portfolio Website"/>
+      <a target="_blank" href="https://tyleriscoding.github.io/Blackjack/">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF4aGg3NTdsMmtud3E3N3hqbHBlcWRwZ21rZ2tucTNneGY2bDJhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bf8kUkiFAxvUZZ3136/giphy.gif" width="100%" alt="Portfolio Website"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/TylerIsCoding/Blackjack" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/TylerIsCoding/Blackjack" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>
-  <a href="https://tyleriscoding.github.io/Blackjack/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
-  </a>
+        <a href="https://tyleriscoding.github.io/Blackjack/" target="_blank">
+          <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+        </a>
       </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-            Blackjack game built from scratch using the OOP paradigm. Users can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.
-          </p>
-          </p>
+      <p>
+        Blackjack game built from scratch using the OOP paradigm. Users can enter their name and are given a stipend to bet with. Once their bankroll is gone, the game is over.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+      </div>
     </td>
   </tr>
 </table>
