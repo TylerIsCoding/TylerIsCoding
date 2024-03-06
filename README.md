@@ -36,7 +36,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
   <tr>
      <td width="50%" valign="top">
       <h3 align="center">DM Companion</h3>
-        <video autoplay src="https://github-production-user-asset-6210df.s3.amazonaws.com/57774747/285039409-abb3faa6-b0fb-4c21-ac83-6129d7dd8f63.mp4"></video>
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF2eGx4d2p1eHEwdHN4a3QwZjBsdGJrbGU3MzN0bHA0MnQ2Nmx4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5RuNKwNuvOttCvQFIk/giphy.gif">
         <p align="center">
           
   <a href="https://github.com/TylerIsCoding/DM_Companion" target="_blank">
