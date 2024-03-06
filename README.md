@@ -64,14 +64,17 @@ See [my website](https://www.tyleriscoding.com) for more information!
           
   <a href="https://github.com/TylerIsCoding/Girdle" target="_blank">
     <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>  
+  </a>
+  <a href="https://tyleriscoding.github.io/Girdle/" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+  </a>
       </p>
         <p align="center">
           <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
           <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
           <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
           <p>
-           Girdle is a simple Wordle clone that stores the user's score in localstorage. The word changes daily and if the user guesses the word on their first try, they get extra points. The project was created with simple HTML, CSS, and JavaScript.
+           Girdle is a simple Wordle clone that stores the user's score in localStorage. The word changes daily and if the user guesses it on their first try, they get extra points. The project was created with simple HTML, CSS, and JavaScript.
           </p>         
         </p>
      </td>
