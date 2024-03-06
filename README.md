@@ -37,68 +37,67 @@ See [my website](https://www.tyleriscoding.com) for more information!
      <td width="50%" valign="top">
       <h3 align="center">DM Companion</h3>
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF2eGx4d2p1eHEwdHN4a3QwZjBsdGJrbGU3MzN0bHA0MnQ2Nmx4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5RuNKwNuvOttCvQFIk/giphy.gif">
-        <p align="center">
-          
-  <a href="https://github.com/TylerIsCoding/DM_Companion" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>  
+      <p align="center">
+        <a href="https://github.com/TylerIsCoding/DM_Companion" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
+        </a>  
       </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/MongoDB-website?style=flat&logo=Mongodb&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/Mongoose-website?style=flat&logo=mongoose&logoColor=white&color=df4986">
-          <img src="https://img.shields.io/badge/Node.js-website?style=flat&logo=nodedotjs&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/React-website?style=flat&logo=react&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/Express.js-website?style=flat&logo=express&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-           The DM Companion is a web application that leverages JWT's for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for their ongoing Dungeons and Dragons campaign. Users also have access to the DnD 5th Edition Monster Manual API, and an Encounter Tracker that gives access to an initiative tracker, a dice roller, and a health tracker app. 
-          </p>         
-        </p>
+      <p>
+         The DM Companion is a web application that leverages JWT's for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for their ongoing Dungeons and Dragons campaign. Users also have access to the DnD 5th Edition Monster Manual API, and an Encounter Tracker that gives access to an initiative tracker, a dice roller, and a health tracker app. 
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MongoDB-website?style=flat&logo=Mongodb&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/Mongoose-website?style=flat&logo=mongoose&logoColor=white&color=df4986">
+        <img src="https://img.shields.io/badge/Node.js-website?style=flat&logo=nodedotjs&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/React-website?style=flat&logo=react&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/Express.js-website?style=flat&logo=express&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>  
+      </div>
      </td>
      <td width="50%" valign="top">
-      <h3 align="center">Girdle</h3>
-       <a href="https://tyleriscoding.github.io/Girdle/" target="_blank">
+      <h3 align="center">Girdle (Wordle Clone)</h3>
+      <a href="https://tyleriscoding.github.io/Girdle/" target="_blank">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlyN2tyYmd2bzVoY2dyb3Vmc2tmMW4wYTZ3NHdkaHcwemd5b2x5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TSrmRAwZNPPwPr9V3Z/giphy.gif"/>
-       </a>
-        <p align="center">
-          
-  <a href="https://github.com/TylerIsCoding/Girdle" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>
-  <a href="https://tyleriscoding.github.io/Girdle/" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
-  </a>
+      </a>
+      <p align="center">
+        <a href="https://github.com/TylerIsCoding/Girdle" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
+        </a>
+        <a href="https://tyleriscoding.github.io/Girdle/" target="_blank">
+          <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+        </a>
       </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-           Girdle is a simple Wordle clone that stores the user's score in localStorage. The word changes daily and if the user guesses it on their first try, they get extra points. The project was created with simple HTML, CSS, and JavaScript.
-          </p>         
-        </p>
+      <p>
+        Girdle is a simple Wordle clone that stores the user's score in localStorage. The word changes daily and if the user guesses it on their first try, they get extra points. The project was created with simple HTML, CSS, and JavaScript.
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/> 
+      </div>
      </td>
   </tr>
-   <tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Quest Log</h3>
-        <br />
         <a target="_blank" href="https://quest-log.cyclic.app">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEybXlmZzB1YmJhcXIyZ3gzbno2MnUzczc2ZzZmendqYm9pYm1pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nmsRt6Y1DvuYx5OIyI/giphy.gif" width="100%" alt="Quest Log"/>
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzEybXlmZzB1YmJhcXIyZ3gzbno2MnUzczc2ZzZmendqYm9pYm1pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nmsRt6Y1DvuYx5OIyI/giphy.gif" width="100%" alt="Quest Log"/>
         </a>
-        <br />
         <p align="center">
-          
-  <a href="https://github.com/TylerIsCoding/QuestLog" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>  
-  <a href="https://quest-log.cyclic.app" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
-  </a>
-      </p>
+          <a href="https://github.com/TylerIsCoding/QuestLog" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
+          </a>  
+          <a href="https://quest-log.cyclic.app" target="_blank">
+            <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+          </a>
+        </p>
         <p align="center">
+        <p>
+         Quest Log is a web application that leverages Google OAuth for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for our ongoing Dungeons and Dragons campaign. 
+        </p>
+        <div align="center">
           <img src="https://img.shields.io/badge/MongoDB-website?style=flat&logo=Mongodb&logoColor=white&color=df4986"/>
           <img src="https://img.shields.io/badge/Mongoose-website?style=flat&logo=mongoose&logoColor=white&color=df4986">
           <img src="https://img.shields.io/badge/Express.js-website?style=flat&logo=express&logoColor=white&color=df4986"/>
@@ -107,84 +106,73 @@ See [my website](https://www.tyleriscoding.com) for more information!
           <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
           <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
           <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-           Quest Log is a web application that leverages Google OAuth for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for our ongoing Dungeons and Dragons campaign. 
-          </p>
-          </p>
+        </div>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">JessiNaff.com</h3>
-        <br />
       <a target="_blank" href="https://www.jessinaff.com">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNrYjlkd3ZiZ2J5YzR3bHR1OHphend0MHdhbm1mYmdid2Y2dG1sdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UTWuh1tr8ITHYrs5V/giphy.gif" width="100%"  alt="JessiNaff.com"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNrYjlkd3ZiZ2J5YzR3bHR1OHphend0MHdhbm1mYmdid2Y2dG1sdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UTWuh1tr8ITHYrs5V/giphy.gif" width="100%"  alt="JessiNaff.com"/>
+      </a>
+      <p align="center">
+        <a href="https://www.jessinaff.com" target="_blank">
+          <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://www.jessinaff.com" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
-  </a>
       </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-            JessiNaff.com is a website made for my client Jessi Naff, a psychotherapist and dance movement therapist. It provides her current and prospective clients with information about psychotherapy, movement therapy, and licensure consultation. 
-          </p>
-         </p>
+      <p>
+        JessiNaff.com is a website made for my client Jessi Naff, a psychotherapist and dance movement therapist. It provides her current and prospective clients with information about psychotherapy, movement therapy, and licensure consultation. 
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+      </div>
     </td>
-  </tr>
-  
+  </tr>  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Paterro's Kitchen</h3>
-        <br />
         <a target="_blank" href="https://www.tyleriscoding.com/restaurant/index.html">
-            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZjcG45M2JodDRlMXQ2N2pocHdrcTFicjdnYXZ4ZW92MWowZ3ZtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3awpsdkMGW0k0ByFDC/giphy.gif" width="100%" alt="Paterro's Kitchen"/>
+          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZjcG45M2JodDRlMXQ2N2pocHdrcTFicjdnYXZ4ZW92MWowZ3ZtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3awpsdkMGW0k0ByFDC/giphy.gif" width="100%" alt="Paterro's Kitchen"/>
         </a>
-        <br />
         <p align="center">
-          
-  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/restaurant" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>  
-  <a href="https://www.tyleriscoding.com/restaurant/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
-  </a>
-      </p>
-        <p align="center">
+          <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/restaurant" target="_blank">
+            <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
+          </a>  
+          <a href="https://www.tyleriscoding.com/restaurant/index.html" target="_blank">
+            <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+          </a>
+        </p>
+        <p>
+          Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.
+        </p>
+        <div align="center">
           <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
           <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
           <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-            Paterro's Kitchen is a visually appealing website designed to showcase the restaurant's authentic Italian food and charming atmosphere. The site features a clean, modern layout, high-quality images and a reservation page.
-          </p></p>
+        </div>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Silverpoint Sneakers</h3>
-        <br />
       <a target="_blank" href="https://www.tyleriscoding.com/shoe-store/index.html">
-            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lpM3BoaGV3NmU3cWpobWRuaTFjdnFqYTkybnFvc2FiZ2h3aW9sZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1lhcl4QKyYUBZzsXS/giphy.gif" width="100%"  alt="Silverpoint"/>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lpM3BoaGV3NmU3cWpobWRuaTFjdnFqYTkybnFvc2FiZ2h3aW9sZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1lhcl4QKyYUBZzsXS/giphy.gif" width="100%"  alt="Silverpoint"/>
+      </a>
+      <p align="center">
+        <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/shoe-store" target="_blank">
+          <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
         </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/TylerIsCoding/TylerIsCoding.com/tree/main/shoe-store" target="_blank">
-    <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-  </a>
-  <a href="https://www.tyleriscoding.com/shoe-store/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
-  </a>
+        <a href="https://www.tyleriscoding.com/shoe-store/index.html" target="_blank">
+          <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+        </a>
       </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
-          <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
-          <p>
-            Silverpoint Sneakers is a website that provides the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.  
-          </p>
-          </p>
+      <p>
+        Silverpoint Sneakers is a website that provides the latest and greatest in sneaker fashion. With a wide variety of styles and brands to choose from, Silverpoint Sneakers is the ultimate destination for sneaker enthusiasts.  
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-website?style=flat&logo=HTML5&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/CSS3-website?style=flat&logo=css3&logoColor=white&color=df4986"/>
+        <img src="https://img.shields.io/badge/JavaScript-website?style=flat&logo=javascript&logoColor=white&color=df4986"/>
+      </div>
     </td>
   </tr>
   
