@@ -36,11 +36,16 @@ See [my website](https://www.tyleriscoding.com) for more information!
   <tr>
      <td width="50%" valign="top">
       <h3 align="center">DM Companion</h3>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF2eGx4d2p1eHEwdHN4a3QwZjBsdGJrbGU3MzN0bHA0MnQ2Nmx4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5RuNKwNuvOttCvQFIk/giphy.gif">
+        <a href="https://dm-companion.onrender.com" target="_blank">
+         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF2eGx4d2p1eHEwdHN4a3QwZjBsdGJrbGU3MzN0bHA0MnQ2Nmx4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5RuNKwNuvOttCvQFIk/giphy.gif"> 
+        </a>
       <p align="center">
         <a href="https://github.com/TylerIsCoding/DM_Companion" target="_blank">
           <img src="https://img.shields.io/badge/REPO-website?style=plastic&logo=github&logoColor=white&color=df4986">
-        </a>  
+        </a>
+        <a href="https://dm-companion.onrender.com" target="_blank">
+          <img src="https://img.shields.io/badge/WEBSITE-website?style=plastic&logo=google%20chrome&logoColor=white&color=df4986">
+        </a>
       </p>
       <p>
          The DM Companion is a web application that leverages JWT's for user authentication. The application enables users to create and manage session notes, recaps, and any other information they need to store for their ongoing Dungeons and Dragons campaign. Users also have access to the DnD 5th Edition Monster Manual API, and an Encounter Tracker that gives access to an initiative tracker, a dice roller, and a health tracker app. 
