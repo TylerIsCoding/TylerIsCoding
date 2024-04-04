@@ -279,7 +279,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
 <h4 align="center">Languages/Databases</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,sqlite,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cs,sqlite,mysql,mongodb" />
   </a>
 </p>
 <p align="center">
@@ -290,7 +290,7 @@ See [my website](https://www.tyleriscoding.com) for more information!
   <img src="https://img.shields.io/badge/Python-website?style=flat&logo=python&logoColor=white&color=df4986"/>
   <img src="https://img.shields.io/badge/C%23-website?style=flat&logo=C%23&logoColor=white&color=df4986">
   <img src="https://img.shields.io/badge/SQLite-website?style=flat&logo=sqlite&logoColor=white&color=df4986">
-  <img src="https://img.shields.io/badge/PostgreSQL-website?style=flat&logo=postgresql&logoColor=white&color=df4986">
+  <img src="https://img.shields.io/badge/MySQL-website?style=flat&logo=mysql&logoColor=white&color=df4986">
   <img src="https://img.shields.io/badge/MongoDB-website?style=flat&logo=Mongodb&logoColor=white&color=df4986"/>
 </p>
 <h4 align="center">Frameworks/Libraries</h4>
